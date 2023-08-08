@@ -8,21 +8,21 @@ To get started with this project, you will need to have Node.js and Vite install
 
 `git clone https://git@github.com:mekuanintlegese/Telebirr_Payment_Landing_Page-Ideal-.git`
 
-Once you have cloned the repository, you can install the dependencies by running the following command:
+- Once you have cloned the repository, you can install the dependencies by running the following command:
 
 `npm install`
 
-To start the development server, run the following command:
+- To start the development server, run the following command:
 
 `npm run dev`
 
 The development server will start on port 3000. You can open your browser and navigate to http://localhost:3000 to view the landing page.
 
-# Development
+## Development
 
 To make changes to the landing page, you can edit the files in the src directory. Once you have made changes, you can start the development server again to see the changes in real time.
 
-# Deployment
+## Deployment
 
 To deploy the landing page to production, you can use the following command:
 
@@ -30,6 +30,6 @@ To deploy the landing page to production, you can use the following command:
 
 This will create a production build of the landing page in the dist directory. You can then deploy the files in the dist directory to your web server.
 
-# Contact
+## Contact
 
 If you have any questions about this project, please feel free to contact me at `mekuanintlegese@gmail.com`.
